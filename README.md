@@ -1,10 +1,10 @@
 
 
-- 🔭 I’m currently looking to expand my knowledge in Blockchain development
+- 🔭 Currently working on: Creating demos of test automation frameworks
 
 - 🌱 I’m currently revamping all of my repos
 
-- 💬 Ask me about Software Testing, automation, coding boot camps
+- 💬 Ask me about Software Testing, automation
 
 - 📫 How to reach me: https://www.linkedin.com/in/jgray00/
 
