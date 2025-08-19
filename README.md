@@ -1,6 +1,6 @@
 
 
-- 🔭 Currently working on: Creating demos of test automation frameworks
+- 🔭 Currently working on: Creating demos of test automation frameworks, Playwright primary focus
 
 - 🌱 I’m currently revamping all of my repos
 
