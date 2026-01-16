@@ -1,10 +1,26 @@
+# Jim Gray
 
+**QA Engineer specializing in Test Automation**
 
-- 🔭 Currently working on: Creating demos of test automation frameworks, Playwright primary focus
+Building production-ready test automation frameworks that demonstrate senior-level architecture patterns and enterprise best practices.
 
-- 🌱 Reviewing and revising all of my repos
+## Current Focus
 
-- 💬 Ask me about Software Testing, test automation
+🎭 **Playwright + Python** - Developing a complete testing framework with:
+- Page Object Model implementation
+- Centralized configuration management
+- Pytest fixtures for dependency injection
+- Smoke and regression test coverage
 
-- 📫 How to reach me: https://www.linkedin.com/in/jgray00/
+📚 **Continuous Learning** - Exploring cloud-based testing, mobile frameworks, and AI/ML integration in QA
 
+## Areas of Expertise
+
+- Web automation (Playwright, Selenium)
+- Framework architecture and design patterns
+- MDM systems testing
+- Python test development
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jgray00/)
