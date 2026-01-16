@@ -6,7 +6,7 @@ Building production-ready test automation frameworks that demonstrate senior-lev
 
 ## Current Focus
 
-🎭 **Playwright + Python** - Developing a complete testing framework with:
+🎭 **Playwright + Typescript** - Developing a complete testing framework with:
 - Page Object Model implementation
 - Centralized configuration management
 - Pytest fixtures for dependency injection
